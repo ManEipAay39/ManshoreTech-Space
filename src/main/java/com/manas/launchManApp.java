@@ -10,7 +10,7 @@ public class launchManApp {
 				  WebDriver driver=new FirefoxDriver();
 				  driver.get("http://facebook.com");
 				  driver.manage().window().maximize();
-				  System.out.println("New ManashoreTech App Version 2");
+				  System.out.println("New ManashoreTech App Version 3");
 	}
 
 }
